@@ -1,1 +1,1 @@
-"# Django-Project" 
+"# My-First-Django-App" 
